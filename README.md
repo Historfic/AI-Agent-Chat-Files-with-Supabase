@@ -3,7 +3,6 @@
 
 <img width="1184" height="838" alt="n8n_ai_agent" src="https://github.com/user-attachments/assets/bafbbfa4-4036-4f41-87c4-3a1b8c3303ba" />
 
-![5min Logo](https://res.cloudinary.com/de9jgixzm/image/upload/v1739773200/Skool%20Assets/ejm3hqnvhgwpnu2fv92s.png)
 ## AI Agent To Chat With Files In Supabase Storage
 **Made by [Mark Shcherbakov](https://www.linkedin.com/in/marklowcoding/) from community [5minAI](https://www.skool.com/5minai-2861)**
 
